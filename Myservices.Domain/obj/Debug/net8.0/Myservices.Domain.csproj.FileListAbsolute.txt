@@ -1,0 +1,140 @@
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\appsettings.Development.json
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\appsettings.json
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.staticwebassets.endpoints.json
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.exe
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.deps.json
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.runtimeconfig.json
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.pdb
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Humanizer.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.csproj.AssemblyReference.cache
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.AssemblyInfoInputs.cache
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.AssemblyInfo.cs
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.csproj.CoreCompileInputs.cache
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.MvcApplicationPartsAssemblyInfo.cs
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.MvcApplicationPartsAssemblyInfo.cache
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\scopedcss\bundle\Myservices.Domain.styles.css
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.build.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.development.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservic.AF4BE771.Up2Date
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.dll
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\refint\Myservices.Domain.dll
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.pdb
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.genruntimeconfig.cache
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\ref\Myservices.Domain.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\appsettings.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.staticwebassets.endpoints.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.exe
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.deps.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.runtimeconfig.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Myservices.Domain.pdb
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Humanizer.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.csproj.AssemblyReference.cache
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.AssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\scopedcss\bundle\Myservices.Domain.styles.css
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservic.AF4BE771.Up2Date
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\refint\Myservices.Domain.dll
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.pdb
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\Myservices.Domain.genruntimeconfig.cache
+C:\Users\Dell\Desktop\New folder (8)\Myservice\Myservices.Domain\obj\Debug\net8.0\ref\Myservices.Domain.dll
